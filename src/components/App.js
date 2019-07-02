@@ -5,6 +5,7 @@ import background from '../images/background.svg'
 import Container from './Container'
 import Main from './Main'
 import Sidebar from './Sidebar'
+import Jobs from './Jobs'
 
 const Root = styled.div`
   transition: .25s ease;
@@ -18,10 +19,10 @@ const MainContainer = styled(Container)`
   display: flex;
   justify-content: space-between;
 
-  div:first-child {
+  >div:first-child {
     width: 990px;
   }
-  div:last-child {
+  >div:last-child {
     width: 320px;
   }
 `
@@ -33,7 +34,7 @@ class App extends Component {
         <Header />
         <MainContainer>
           <Main>
-            dsadas
+            <Jobs/>
           </Main>
           <Sidebar/>
         </MainContainer>
