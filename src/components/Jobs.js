@@ -203,7 +203,7 @@ const fakeStore = [
   },
   {
     info: {
-      id: '1',
+      id: '6',
       title: 'Desenvolvedor front-end pleno',
       description: 'A Nubank precisa de um desenvolvedor Front-end pleno. Necessário conhecimento sólido em algum framework JavaScript, como React, Angular ou Vue.',
     },
@@ -221,7 +221,7 @@ const fakeStore = [
   },
   {
     info: {
-      id: '2',
+      id: '7',
       title: 'DevOps Engineer Sênior',
       description: 'A Nubank precisa de um DevOps Engineer Sênio. Necessário conhecimento sólido em CI/CD, Amazon AWS, Google Cloud ou Microsoft Azure.',
     },
@@ -239,7 +239,7 @@ const fakeStore = [
   },
   {
     info: {
-      id: '3',
+      id: '8',
       title: 'Estagiário de Desenvolvimento',
       description: 'A Google precisa de um Estagiário de Desenvolvimento Web. Nenhum conhecimento prévio é necessário.',
     },
@@ -257,7 +257,7 @@ const fakeStore = [
   },
   {
     info: {
-      id: '4',
+      id: '9',
       title: 'Desenvolvedor Front-End Sênior',
       description: 'A pag! precisa de um Desenvolvedor Front-End Sênior. Necessário amplo conhecimento em React.js e metodologias ágeis.',
     },
@@ -275,7 +275,7 @@ const fakeStore = [
   },
   {
     info: {
-      id: '5',
+      id: '10',
       title: 'Desenvolvedor Web Escravo',
       description: 'Precisamos de um desenvolvedor que aceite ser totalmente submisso aos nossos desejos, e que não tenha uma pretensão salarial muito alta, afinal, não damos a mínima.',
     },
